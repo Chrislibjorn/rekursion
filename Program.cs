@@ -14,8 +14,6 @@ namespace rekursion
             {
                 Console.WriteLine("use a whole number");
             }
-
-
             void move(string f, string t)
             {
                 Console.WriteLine($"move disc from {f} to {t}!");
